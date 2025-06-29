@@ -1,0 +1,91 @@
+quan_aal_name.L
+Precental gyrus
+Precental gyrus
+Superior frontal gyrus, dorsolateral
+Superior frontal gyrus, dorsolateral
+Superior frontal gyrus, orbital part
+Superior frontal gyrus, orbital part
+Middle frontal gyrus
+Middle frontal gyrus
+Middle frontal gyrus, orbital part
+Middle frontal gyrus, orbital part
+Inferior frontal gyrus, opercular part
+Inferior frontal gyrus, opercular part
+Inferior frontal gyrus, triangular part
+Inferior frontal gyrus, triangular part
+Inferior frontal gyrus, orbital part
+Inferior frontal gyrus, orbital part
+Rolandic operculum
+Rolandic operculum
+Supplementary motor area
+Supplementary motor area
+Olfactory cortex
+Olfactory cortex
+Superior frontal gyrus, medial
+Superior frontal gyrus, medial
+Superior frontal gyrus, medial orbital
+Superior frontal gyrus, medial orbital
+Gyrus rectus
+Gyrus rectus
+Insula
+Insula
+Anterior cingulate and paracingulate gyri
+Anterior cingulate and paracingulate gyri
+Median cingulate and paracingulate gyri
+Median cingulate and paracingulate gyri
+Posterior cingulate gyrus
+Posterior cingulate gyrus
+Hippocampus
+Hippocampus
+Parahippocampal gyrus
+Parahippocampal gyrus
+Amygdala
+Amygdala
+Calcarine fissure and surrounding cortex
+Calcarine fissure and surrounding cortex
+Cuneus
+Cuneus
+Lingual gyrus
+Lingual gyrus
+Superior occipital gyrus
+Superior occipital gyrus
+Middle occipital gyrus
+Middle occipital gyrus
+Inferior occipital gyrus
+Inferior occipital gyrus
+Fusiform gyrus
+Fusiform gyrus
+Postcentral gyrus
+Postcentral gyrus
+Superior parietal gyrus
+Superior parietal gyrus
+Inferior parietal, but supramarginal and angular gyri
+Inferior parietal, but supramarginal and angular gyri
+Supramarginal gyrus
+Supramarginal gyrus
+Angular gyrus
+Angular gyrus
+Precuneus
+Precuneus
+Paracentral lobule
+Paracentral lobule
+Caudate nucleus
+Caudate nucleus
+Lenticular nucleus, putamen
+Lenticular nucleus, putamen
+Lenticular nucleus, pallidum
+Lenticular nucleus, pallidum
+Thalamus
+Thalamus
+Heschl gyrus
+Heschl gyrus
+Superior temporal gyrus
+Superior temporal gyrus
+Temporal pole: superior temporal gyrus
+Temporal pole: superior temporal gyrus
+Middle temporal gyrus
+Middle temporal gyrus
+Temporal pole: middle temporal gyrus
+Temporal pole: middle temporal gyrus
+Inferior temporal gyrus
+Inferior temporal gyrus

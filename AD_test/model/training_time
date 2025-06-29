@@ -1,0 +1,19 @@
+SVM training time: 0.0030112266540527344 seconds
+LR training time: 0.0014548301696777344 seconds
+RF training time: 0.052500009536743164 seconds
+SVM_3 training time: 0.015327930450439453 seconds
+LR_3 training time: 0.03268718719482422 seconds
+RF_3 training time: 0.12649011611938477 seconds
+
+LFCN_2
+              precision    recall  f1-score   support
+
+         0.0       0.93      1.00      0.97        14
+         3.0       1.00      0.80      0.89         5
+
+    accuracy                           0.95        19
+   macro avg       0.97      0.90      0.93        19
+weighted avg       0.95      0.95      0.95        19
+
+HFCN_2
+最佳准确率： 0.9666666666666666
